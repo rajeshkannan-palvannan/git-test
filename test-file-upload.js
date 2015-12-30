@@ -1,5 +1,7 @@
 'use strict';
 
+/* Test comment */
+
 var app = angular.module('Directives', ['htmlSortable']);
 
 app.controller('MainCtrl', function($scope) {
